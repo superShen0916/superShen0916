@@ -2,7 +2,7 @@
 
 Backend / Platform Engineer. I work mainly with Go and TypeScript.
 
-Recently I've been working on developer tools and coding-agent infrastructure, mostly around session reliability, CLI integrations, and dashboard performance.
+Recently I've been building infrastructure for AI coding agents, with a focus on agent runtime orchestration, context continuity, model and tool integration, and production-grade reliability.
 
 ## Recent work
 
