@@ -1,8 +1,8 @@
 # Hi, I'm Shen
 
-Backend / Platform Engineer. I work mainly with Go and TypeScript.
+Backend / Platform Engineer working mainly with Go and TypeScript.
 
-Recently I've been building infrastructure for AI coding agents, with a focus on agent runtime orchestration, context continuity, model and tool integration, and production-grade reliability.
+Recently focused on coding-agent infrastructure, developer tooling, and reliability.
 
 ## Recent work
 
